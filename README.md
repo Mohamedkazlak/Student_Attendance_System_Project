@@ -1,5 +1,7 @@
 # Student-Attendance-System
-A student attendance system that Takes, Delete, Search and Display attendance
 
-The program adds new attendance of students in subjects, in some lectures.
-Delete, prints all attendance information on screen.
+
+•	The system allows users to take, delete, search, and display student attendance records, storing them in a dynamic array for efficient access and management.
+
+•	A menu-driven system enables users to interact easily, using operator overloading to simplify data input and output.
+
